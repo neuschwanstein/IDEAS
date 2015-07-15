@@ -1,0 +1,13 @@
+- Francois' Problem :: Given an infinite numbers of classifiers, what is the optimal way
+     of sampling events so that we can apply a confidence bound on what to expect
+     (Francois' Problem: a possibly infinite list of websites can make bid requests that
+     are to be logged. The distribution has fat tails, and sampling is limited, but the
+     number of outcomes is not).
+- Learn all of Mathematics :: Given properly formatted definitions and theorems
+     (eg. Principia Mathematica, or perhaps a very rigorous textbook, like Bourbaki would
+     do), train a machine on it so it can output /real/ proofs for theorems.
+- Reverse Engineer PDF :: To do so, starting with arxiv, reverse engineer PDF to their
+     original LaTeX source, using perhaps PDF as png image? What feature should be used
+     lead to a good representation of a pdf file? Then using a comprehensive model, train
+     upon hundreds of thounsands of pdf (from a torrent eg.) to /learn/ all of the world
+     knowledge !!
